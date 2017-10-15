@@ -1,3 +1,6 @@
+/**
+ * Created by alone95 on 2017/10/15
+ */
 public class reverse {
     public static void main(String[] args) {
         int x=-12345678;
