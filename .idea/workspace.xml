@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="781f5637-4aad-4b62-b554-19d8cd02e9c0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/removeDuplicatesfromSortedArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/removeElement.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,6 +19,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="558">
               <caret line="32" column="12" lean-forward="false" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reverse.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/reverse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -73,7 +81,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="removeElement.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="removeElement.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/removeElement.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="229">
@@ -116,18 +124,6 @@
             <state relative-caret-position="221">
               <caret line="3666" column="0" lean-forward="false" selection-start-line="3666" selection-start-column="0" selection-end-line="3666" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Math.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_40/src.zip!/java/lang/Math.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="1335" column="0" lean-forward="false" selection-start-line="1335" selection-start-column="0" selection-end-line="1335" selection-end-column="0" />
-              <folding>
-                <element signature="e#52271#52272#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -423,12 +419,12 @@
       <option name="presentableId" value="Default" />
       <updated>1507992536712</updated>
       <workItem from="1507992540277" duration="3243000" />
-      <workItem from="1508043590277" duration="17507000" />
+      <workItem from="1508043590277" duration="18657000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20750000" />
+    <option name="totallyTimeSpent" value="21900000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="30" width="1360" height="745" extended-state="0" />
@@ -506,14 +502,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Two Sum/src/Two_Sum.java" />
-    <entry file="file://$PROJECT_DIR$/src/reverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Palindrome_Number.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -634,6 +622,14 @@
             <element signature="e#774#775#0" expanded="true" />
             <element signature="e#849#850#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
