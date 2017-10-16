@@ -14,5 +14,8 @@
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](https://github.com/Alone95/Leetcode/blob/master/src/removeDuplicatesfromSortedArray.java) | easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Java](https://github.com/Alone95/Leetcode/blob/master/src/removeElement.java) | easy |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Java](https://github.com/Alone95/Leetcode/blob/master/src/implementStrStr.java) | easy |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](https://github.com/Alone95/Leetcode/blob/master/src/searchInsertPosition.java) | easy |
+| 38 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | [Java](https://github.com/Alone95/Leetcode/blob/master/src/countAndSay.java) | easy |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Java](https://github.com/Alone95/Leetcode/blob/master/src/maximumSubarray.java) | easy |
 
 
