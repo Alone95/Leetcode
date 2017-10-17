@@ -12,10 +12,10 @@ public class plusOne {
      * 数组中的各元素表示该数字的各位，越靠前的元素权越大，即越靠前的元素在数字中也越靠前。
      */
     public static void main(String[] args) {
-        int [] array = new int[]{1,3,4,5};
-        plusOne(array);
-        for(int i=0;i<array.length;i++){
-            System.out.print(array[i]);
+        int [] array = new int[]{9,9,9,9,9};
+        int [] newarray=plusOne(array);
+        for(int i=0;i<newarray.length;i++){
+            System.out.print(newarray[i]);
         }
 
     }
