@@ -17,5 +17,5 @@
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](https://github.com/Alone95/Leetcode/blob/master/src/searchInsertPosition.java) | easy |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | [Java](https://github.com/Alone95/Leetcode/blob/master/src/countAndSay.java) | easy |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Java](https://github.com/Alone95/Leetcode/blob/master/src/maximumSubarray.java) | easy |
-
-
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Java](https://github.com/Alone95/Leetcode/blob/master/src/lengthofLastWord.java) | easy |
+| 63 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [Java](https://github.com/Alone95/Leetcode/blob/master/src/plusOne.java) | easy |
