@@ -19,3 +19,5 @@
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Java](https://github.com/Alone95/Leetcode/blob/master/src/maximumSubarray.java) | easy |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Java](https://github.com/Alone95/Leetcode/blob/master/src/lengthofLastWord.java) | easy |
 | 63 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [Java](https://github.com/Alone95/Leetcode/blob/master/src/plusOne.java) | easy |
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [Java](https://github.com/Alone95/Leetcode/blob/master/src/addBinary.java) | easy |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [Java](https://github.com/Alone95/Leetcode/blob/master/src/sqrt_x.java) | easy |
