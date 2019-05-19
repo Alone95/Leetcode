@@ -1,5 +1,5 @@
 # Leetcode
-自己算法太水了，该好好补补了o(╥﹏╥)o
+划水
 
 
 | #   | Title  | Solution | Difficulty |
@@ -21,3 +21,4 @@
 | 63 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [Java](https://github.com/Alone95/Leetcode/blob/master/src/plusOne.java) | easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [Java](https://github.com/Alone95/Leetcode/blob/master/src/addBinary.java) | easy |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [Java](https://github.com/Alone95/Leetcode/blob/master/src/sqrt_x.java) | easy |
+| 771| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Java](https://github.com/Alone95/Leetcode/blob/master/src/jewelsAndStones.java) | easy |
